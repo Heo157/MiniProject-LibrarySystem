@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "Library",
+			"path": "../../../vscode/Library"
+		},
+		{
+			"name": "library_rfid_lcd_wifi_rgb_final",
+			"path": "../library_rfid_lcd_wifi_rgb_final"
+		},
+		{
+			"name": "서버 코드",
+			"path": "."
+		},
+		{
+			"name": "library_bluetooth_sg90",
+			"path": "../library_bluetooth_sg90"
+		}
+	],
+	"settings": {}
+}

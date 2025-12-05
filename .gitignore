@@ -1,0 +1,21 @@
+# Build output
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# Workspace-level (do not commit)
+.metadata/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+#
+.settings/
+Docs/시연 영상.mp4
